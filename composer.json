@@ -1,0 +1,15 @@
+{
+    "name": "naailah_jugon/challenge_abstraction",
+    "autoload": {
+        "psr-4": {
+            "NaailahJugon\\ChallengeAbstraction\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "naailah jugon",
+            "email": "jugonnaailah@gmail.com"
+        }
+    ],
+    "require": {}
+}
